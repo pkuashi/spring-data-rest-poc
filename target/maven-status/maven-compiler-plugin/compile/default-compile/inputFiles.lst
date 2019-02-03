@@ -1,0 +1,7 @@
+/Users/pkuashi/spring-data-rest-poc/src/main/java/com/example/springdatarestpoc/Item.java
+/Users/pkuashi/spring-data-rest-poc/src/main/java/com/example/springdatarestpoc/MyPagedResourcesAssemblerArgumentResolver.java
+/Users/pkuashi/spring-data-rest-poc/src/main/java/com/example/springdatarestpoc/MyRepositoryRestMvcConfiguration.java
+/Users/pkuashi/spring-data-rest-poc/src/main/java/com/example/springdatarestpoc/MyPagedResourcesAssembler.java
+/Users/pkuashi/spring-data-rest-poc/src/main/java/com/example/springdatarestpoc/SpringDataRestPocApplication.java
+/Users/pkuashi/spring-data-rest-poc/src/main/java/com/example/springdatarestpoc/MyMethodParameterAwarePagedResourcesAssembler.java
+/Users/pkuashi/spring-data-rest-poc/src/main/java/com/example/springdatarestpoc/ItemRepository.java

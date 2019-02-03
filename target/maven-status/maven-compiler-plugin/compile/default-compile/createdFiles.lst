@@ -1,0 +1,7 @@
+com/example/springdatarestpoc/MyMethodParameterAwarePagedResourcesAssembler.class
+com/example/springdatarestpoc/MyPagedResourcesAssemblerArgumentResolver.class
+com/example/springdatarestpoc/ItemRepository.class
+com/example/springdatarestpoc/MyRepositoryRestMvcConfiguration.class
+com/example/springdatarestpoc/Item.class
+com/example/springdatarestpoc/MyPagedResourcesAssembler.class
+com/example/springdatarestpoc/SpringDataRestPocApplication.class
